@@ -1,0 +1,21 @@
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\bin\Debug\Dal.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\bin\Debug\Dal.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\obj\Debug\Dal.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\Dal\obj\Debug\Dal.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\Dal.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\Dal.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\BE.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\BE.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\Dal.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\Dal.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\BE.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\bin\Debug\BE.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\Dal\obj\Debug\Dal.pdb

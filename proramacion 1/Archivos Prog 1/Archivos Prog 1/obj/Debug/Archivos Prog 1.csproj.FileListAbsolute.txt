@@ -1,0 +1,28 @@
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.exe
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.pdb
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csprojAssemblyReference.cache
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Form1.resources
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Properties.Resources.resources
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csproj.GenerateResource.cache
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.exe
+C:\Users\SERVER\source\repos\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.pdb
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.exe
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.pdb
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Form1.resources
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Properties.Resources.resources
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.exe
+C:\Users\SERVER\Desktop\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.pdb
+N:\P1 - Roda\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.exe
+N:\P1 - Roda\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\bin\Debug\Archivos Prog 1.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos_Prog_1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos Prog 1\Archivos Prog 1\obj\Debug\Archivos Prog 1.csproj.GenerateResource.Cache

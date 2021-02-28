@@ -1,0 +1,5 @@
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BE\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BE\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BE\obj\Debug\BE.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BE\obj\Debug\BE.pdb

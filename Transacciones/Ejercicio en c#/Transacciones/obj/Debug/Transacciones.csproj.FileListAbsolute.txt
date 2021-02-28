@@ -1,0 +1,26 @@
+c:\users\server\documents\visual studio 2013\Projects\Transacciones\Transacciones\bin\Debug\Transacciones.exe.config
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe.config
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.pdb
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.Form1.resources
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.Properties.Resources.resources
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.exe
+C:\Users\navegador\Desktop\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.pdb
+Z:\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe.config
+Z:\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.exe
+Z:\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.pdb
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe.config
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.pdb
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.csprojAssemblyReference.cache
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.Form1.resources
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.Properties.Resources.resources
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.csproj.GenerateResource.cache
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.csproj.CoreCompileInputs.cache
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.exe
+D:\Escritorio 19 urgencia\Nueva carpeta\LUG - RODA\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.pdb
+D:\Perez Demonty\Transacciones\Ejercicio en c#\Transacciones\bin\Debug\Transacciones.exe.config
+D:\Perez Demonty\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.exe
+D:\Perez Demonty\Transacciones\Ejercicio en c#\Transacciones\obj\Debug\Transacciones.pdb

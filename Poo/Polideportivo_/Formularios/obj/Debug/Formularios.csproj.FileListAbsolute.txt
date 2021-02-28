@@ -1,0 +1,26 @@
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\bin\Debug\Formularios.exe.config
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.frmAlquiler.resources
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.frmJuez.resources
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.Contenedor.resources
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\bin\Debug\Formularios.exe
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\bin\Debug\Formularios.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\bin\Debug\Clases.dll
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\bin\Debug\Clases.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.exe
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\bin\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\bin\Debug\Clases.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\bin\Debug\Clases.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.frmAlquiler.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.frmJuez.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.Contenedor.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Polideportivo_\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache

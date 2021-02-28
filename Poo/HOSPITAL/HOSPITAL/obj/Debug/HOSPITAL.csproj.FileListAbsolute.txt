@@ -1,0 +1,53 @@
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.pdb
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\bin\Debug\CLASES.dll
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\bin\Debug\CLASES.pdb
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csprojResolveAssemblyReference.cache
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Form1.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmAsignarMedico.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearEspecialidad.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearMedico.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmVerInfo.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.Cache
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.exe
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.pdb
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.CrearEstudio.resources
+D:\Gerardi Federico\Clase 11\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearPciente.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\bin\Debug\CLASES.dll
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\bin\Debug\CLASES.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.CrearEstudio.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Form1.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmAsignarMedico.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearEspecialidad.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearMedico.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearPciente.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmVerInfo.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.CopyComplete
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 12 (24-06-2019)\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\bin\Debug\HOSPITAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.CrearEstudio.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmAsignarMedico.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearEspecialidad.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearMedico.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmCrearPciente.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.frmVerInfo.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\HOSPITAL\HOSPITAL\obj\Debug\HOSPITAL.csproj.GenerateResource.Cache

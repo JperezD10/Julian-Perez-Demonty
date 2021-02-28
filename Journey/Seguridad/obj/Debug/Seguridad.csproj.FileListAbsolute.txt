@@ -1,0 +1,6 @@
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\bin\Debug\Seguridad.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\bin\Debug\Seguridad.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\obj\Debug\Seguridad.csproj.CoreCompileInputs.cache
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\obj\Debug\Seguridad.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\obj\Debug\Seguridad.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\Seguridad\obj\Debug\Seguridad.csprojAssemblyReference.cache

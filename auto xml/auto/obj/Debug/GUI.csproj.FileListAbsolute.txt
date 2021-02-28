@@ -1,0 +1,18 @@
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\auto.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\auto.exe
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\auto.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\BE.dll
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\BLL.dll
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\DAL.dll
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\BE.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\BLL.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\bin\Debug\DAL.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\auto.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\auto.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\GUI.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\auto.exe
+c:\users\navegador\documents\visual studio 2015\Projects\auto\auto\obj\Debug\auto.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\auto xml\auto\bin\Debug\auto.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\auto xml\auto\obj\Debug\auto.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\auto xml\auto\obj\Debug\auto.pdb

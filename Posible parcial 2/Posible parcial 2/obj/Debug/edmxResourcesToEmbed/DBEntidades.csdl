@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Parcial2LUGModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Pasajero">
+    <Key>
+      <PropertyRef Name="IDPasajero" />
+    </Key>
+    <Property Name="IDPasajero" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Viaje" Relationship="Self.FK_Viaje_Pasajero" FromRole="Pasajero" ToRole="Viaje" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="IDvehiculo" />
+    </Key>
+    <Property Name="IDvehiculo" Type="Int32" Nullable="false" />
+    <Property Name="Marca" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Patente" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Viaje" Relationship="Self.FK_Viaje_Vehiculo" FromRole="Vehiculo" ToRole="Viaje" />
+  </EntityType>
+  <EntityType Name="Viaje">
+    <Key>
+      <PropertyRef Name="IDViaje" />
+    </Key>
+    <Property Name="IDViaje" Type="Int32" Nullable="false" />
+    <Property Name="IDvehiculo" Type="Int32" Nullable="false" />
+    <Property Name="IDpasajero" Type="Int32" Nullable="false" />
+    <Property Name="Destino" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Kilometro" Type="Int32" Nullable="false" />
+    <Property Name="Importe" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Pasajero" Relationship="Self.FK_Viaje_Pasajero" FromRole="Viaje" ToRole="Pasajero" />
+    <NavigationProperty Name="Vehiculo" Relationship="Self.FK_Viaje_Vehiculo" FromRole="Viaje" ToRole="Vehiculo" />
+  </EntityType>
+  <Association Name="FK_Viaje_Pasajero">
+    <End Role="Pasajero" Type="Self.Pasajero" Multiplicity="1" />
+    <End Role="Viaje" Type="Self.Viaje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pasajero">
+        <PropertyRef Name="IDPasajero" />
+      </Principal>
+      <Dependent Role="Viaje">
+        <PropertyRef Name="IDpasajero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Viaje_Vehiculo">
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="1" />
+    <End Role="Viaje" Type="Self.Viaje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehiculo">
+        <PropertyRef Name="IDvehiculo" />
+      </Principal>
+      <Dependent Role="Viaje">
+        <PropertyRef Name="IDvehiculo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Parcial2LUGEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Pasajero" EntityType="Self.Pasajero" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Vehiculo" EntityType="Self.Vehiculo" />
+    <EntitySet Name="Viaje" EntityType="Self.Viaje" />
+    <AssociationSet Name="FK_Viaje_Pasajero" Association="Self.FK_Viaje_Pasajero">
+      <End Role="Pasajero" EntitySet="Pasajero" />
+      <End Role="Viaje" EntitySet="Viaje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Viaje_Vehiculo" Association="Self.FK_Viaje_Vehiculo">
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+      <End Role="Viaje" EntitySet="Viaje" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

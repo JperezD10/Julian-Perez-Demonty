@@ -1,0 +1,36 @@
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\bin\Debug\GDI.exe.config
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\bin\Debug\GDI.exe
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\bin\Debug\GDI.pdb
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.exe
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\obj\Debug\GDI.pdb
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\bin\Debug\GDI.exe.config
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.exe
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.pdb
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\bin\Debug\GDI.exe
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\bin\Debug\GDI.pdb
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\Navegador\Desktop\GDI\GDI\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+G:\LUG-Noche\GDI los pibes\GDI\GDI\bin\Debug\GDI.exe.config
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.exe
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.pdb
+G:\LUG-Noche\GDI los pibes\GDI\GDI\bin\Debug\GDI.exe
+G:\LUG-Noche\GDI los pibes\GDI\GDI\bin\Debug\GDI.pdb
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.Form1.resources
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+G:\LUG-Noche\GDI los pibes\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\bin\Debug\GDI.exe.config
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\bin\Debug\GDI.exe
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\bin\Debug\GDI.pdb
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.csprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.exe
+C:\Users\SERVER\Desktop\GDI\GDI\GDI\obj\Debug\GDI.pdb

@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Posible parcial 2\BE\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Posible parcial 2\BE\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Posible parcial 2\BE\obj\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Posible parcial 2\BE\obj\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Posible parcial 2\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

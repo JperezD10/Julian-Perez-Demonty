@@ -1,0 +1,5 @@
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Clases\bin\Debug\Clases.dll
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Clases\bin\Debug\Clases.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Clases\obj\Debug\Clases.dll
+c:\users\agustin\documents\visual studio 2015\Projects\Polideportivo_\Clases\obj\Debug\Clases.pdb

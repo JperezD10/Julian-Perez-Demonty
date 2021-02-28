@@ -1,0 +1,18 @@
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\bin\Debug\Formularios.exe.config
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\bin\Debug\Formularios.exe
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\bin\Debug\Formularios.pdb
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\bin\Debug\Clases.dll
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\bin\Debug\Clases.pdb
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.frmCrearEmpleado.resources
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.frmMain.resources
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.exe
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.pdb
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.frmAgregarTrabajo.resources
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.frmFiltro.resources
+d:\documents\visual studio 2015\Projects\EmpresaConstruccion\Formularios\obj\Debug\Formularios.frmSueldoPorEmpleado.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EmpresaConstruccion\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EmpresaConstruccion\Formularios\obj\Debug\Formularios.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EmpresaConstruccion\Formularios\obj\Debug\Formularios.pdb

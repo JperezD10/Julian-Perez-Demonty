@@ -1,0 +1,6 @@
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\bin\Debug\BE.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\bin\Debug\BE.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\obj\Debug\BE.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\obj\Debug\BE.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\BE\obj\Debug\BE.csprojAssemblyReference.cache

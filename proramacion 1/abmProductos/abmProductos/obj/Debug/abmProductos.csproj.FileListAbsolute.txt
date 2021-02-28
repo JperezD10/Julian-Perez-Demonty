@@ -1,0 +1,17 @@
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\bin\Debug\abmProductos.exe.config
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\bin\Debug\abmProductos.exe
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\bin\Debug\abmProductos.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Cargar.resources
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Eliminar.resources
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Form1.resources
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Modificar.resources
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.exe
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.Ventas.resources
+C:\Users\Agustin\Documents\Visual Studio 2015\Projects\abmProductos\abmProductos\obj\Debug\abmProductos.vistaporCategoria.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\abmProductos\abmProductos\bin\Debug\abmProductos.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\abmProductos\abmProductos\obj\Debug\abmProductos.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\abmProductos\abmProductos\obj\Debug\abmProductos.pdb

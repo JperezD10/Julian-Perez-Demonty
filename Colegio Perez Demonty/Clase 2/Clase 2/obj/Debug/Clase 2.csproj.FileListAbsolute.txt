@@ -1,0 +1,21 @@
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase_2.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+c:\users\navegador\documents\visual studio 2015\Projects\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase 2.pdb

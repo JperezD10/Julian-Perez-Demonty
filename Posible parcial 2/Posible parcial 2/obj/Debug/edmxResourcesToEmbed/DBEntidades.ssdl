@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Parcial2LUGModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Pasajero">
+    <Key>
+      <PropertyRef Name="IDPasajero" />
+    </Key>
+    <Property Name="IDPasajero" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apellido" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="IDvehiculo" />
+    </Key>
+    <Property Name="IDvehiculo" Type="int" Nullable="false" />
+    <Property Name="Marca" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Modelo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Patente" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Viaje">
+    <Key>
+      <PropertyRef Name="IDViaje" />
+    </Key>
+    <Property Name="IDViaje" Type="int" Nullable="false" />
+    <Property Name="IDvehiculo" Type="int" Nullable="false" />
+    <Property Name="IDpasajero" Type="int" Nullable="false" />
+    <Property Name="Destino" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kilometro" Type="int" Nullable="false" />
+    <Property Name="Importe" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Viaje_Pasajero">
+    <End Role="Pasajero" Type="Self.Pasajero" Multiplicity="1" />
+    <End Role="Viaje" Type="Self.Viaje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pasajero">
+        <PropertyRef Name="IDPasajero" />
+      </Principal>
+      <Dependent Role="Viaje">
+        <PropertyRef Name="IDpasajero" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Viaje_Vehiculo">
+    <End Role="Vehiculo" Type="Self.Vehiculo" Multiplicity="1" />
+    <End Role="Viaje" Type="Self.Viaje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vehiculo">
+        <PropertyRef Name="IDvehiculo" />
+      </Principal>
+      <Dependent Role="Viaje">
+        <PropertyRef Name="IDvehiculo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Parcial2LUGModelStoreContainer">
+    <EntitySet Name="Pasajero" EntityType="Self.Pasajero" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vehiculo" EntityType="Self.Vehiculo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Viaje" EntityType="Self.Viaje" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Viaje_Pasajero" Association="Self.FK_Viaje_Pasajero">
+      <End Role="Pasajero" EntitySet="Pasajero" />
+      <End Role="Viaje" EntitySet="Viaje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Viaje_Vehiculo" Association="Self.FK_Viaje_Vehiculo">
+      <End Role="Vehiculo" EntitySet="Vehiculo" />
+      <End Role="Viaje" EntitySet="Viaje" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

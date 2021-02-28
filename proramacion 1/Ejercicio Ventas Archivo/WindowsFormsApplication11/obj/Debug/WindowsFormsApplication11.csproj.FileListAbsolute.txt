@@ -1,0 +1,37 @@
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Cargar.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Venta.resources
+C:\Users\1\Downloads\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Logincs.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Logincs.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Venta.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Ventas Archivo\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Ventas Archivo\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb

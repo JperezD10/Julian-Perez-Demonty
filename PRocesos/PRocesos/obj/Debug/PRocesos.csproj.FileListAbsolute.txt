@@ -1,0 +1,41 @@
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\bin\Debug\PRocesos.exe
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\bin\Debug\PRocesos.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\obj\Debug\PRocesos.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\obj\Debug\PRocesos.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\obj\Debug\PRocesos.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+c:\users\navegador\documents\visual studio 2015\Projects\PRocesos\PRocesos\obj\Debug\PRocesos.pdb
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.exe
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.pdb
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.csprojResolveAssemblyReference.cache
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.Form1.resources
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.Properties.Resources.resources
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.csproj.GenerateResource.Cache
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+G:\LUG PARKINSON\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.pdb
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.pdb
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.exe
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\bin\Debug\PRocesos.pdb
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.Form1.resources
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.Properties.Resources.resources
+C:\Users\navegador\Desktop\10.LinQ Process Hilos\PRocesos\PRocesos\obj\Debug\PRocesos.csproj.GenerateResource.Cache
+Z:\LUG - RODA\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+Z:\LUG - RODA\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+Z:\LUG - RODA\PRocesos\PRocesos\obj\Debug\PRocesos.pdb
+C:\Users\navegador\Desktop\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+C:\Users\navegador\Desktop\PRocesos\PRocesos\bin\Debug\PRocesos.exe
+C:\Users\navegador\Desktop\PRocesos\PRocesos\bin\Debug\PRocesos.pdb
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.Form1.resources
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.Properties.Resources.resources
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+C:\Users\navegador\Desktop\PRocesos\PRocesos\obj\Debug\PRocesos.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\PRocesos\PRocesos\bin\Debug\PRocesos.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\PRocesos\PRocesos\obj\Debug\PRocesos.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\PRocesos\PRocesos\obj\Debug\PRocesos.pdb

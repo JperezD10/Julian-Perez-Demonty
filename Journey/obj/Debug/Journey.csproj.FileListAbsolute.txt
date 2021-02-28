@@ -1,0 +1,28 @@
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\Journey.exe.config
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\Journey.exe
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\Journey.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\BE.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\BLL.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\CU.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\DAL.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\Seguridad.dll
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\BE.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\BLL.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\DAL.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\Seguridad.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.JourneyLogIn.resources
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.Menu.resources
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.Properties.Resources.resources
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.csproj.GenerateResource.cache
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.csproj.CopyComplete
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.exe
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\bin\Debug\CU.pdb
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.Cuenta.resources
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.Seguridad.resources
+D:\Ingeniería En Sistemas\2do\2° Cuatrimestre\Lenguajes de Ultima Generación\Journey\obj\Debug\Journey.Factura.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Journey\bin\Debug\Journey.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Journey\obj\Debug\Journey.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Journey\obj\Debug\Journey.pdb

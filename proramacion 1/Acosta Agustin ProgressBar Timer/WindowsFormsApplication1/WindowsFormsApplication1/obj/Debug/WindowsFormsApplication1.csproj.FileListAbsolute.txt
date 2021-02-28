@@ -1,0 +1,27 @@
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\agustin\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Navegador\Downloads\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Acosta Agustin ProgressBar Timer\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

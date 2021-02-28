@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Sin título-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOFINAL2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGOFINAL2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user logo menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user logo menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-10241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rolling-1.6s-200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rolling-1.6s-200px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="descarga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\descarga.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background-1634817_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background-1634817_1280.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minimize Window_2 48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Minimize Window_2 48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.3s-200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.3s-200px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondo-azul-claro-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondo-azul-claro-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="editLogo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\editLogo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-90px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-90px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sin_ta10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sin_ta10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="664b6af1e2428aed06246af0c6581efb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\664b6af1e2428aed06246af0c6581efb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-200px (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-200px (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-60px (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-60px (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UserLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UserLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOG IN - copia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOG IN - copia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.5s-200px (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.5s-200px (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="73-734715_left-arrow-png-back-arrow-icon-android-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\73-734715_left-arrow-png-back-arrow-icon-android-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ppppp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ppppp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ajax-loader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ajax-loader.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="93631" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\93631.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-200px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOFINAL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGOFINAL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="664b6af1e2428aed06246af0c6581efb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagenes\664b6af1e2428aed06246af0c6581efb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ppppp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ppppp1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdsdssdds1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdsdssdds1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOFINAL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGOFINAL1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LockPassword" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LockPassword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="124296-200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\124296-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wallpaper_azul_oscuro_1920x1200_124" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallpaper_azul_oscuro_1920x1200_124.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="editLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\editLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sdsdssdds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sdsdssdds.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-200px (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-200px (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-1024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-1024.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="936311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\936311.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.8s-200px (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-200px (2).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.5s-200px (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.5s-200px (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Close Window_ 2 48px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Close Window_ 2 48px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.5s-200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.5s-200px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.6s-200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.6s-200px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título-31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adsad23232" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adsad23232.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.8s-90px1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse-1.5s-200px (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse-1.5s-200px (2).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOG IN 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOG IN 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu-icon-6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu-icon-6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61155" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61155.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="blue2-1686530_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\blue2-1686530_1280.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ajax-loader (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ajax-loader (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sin título-33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sin título-33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

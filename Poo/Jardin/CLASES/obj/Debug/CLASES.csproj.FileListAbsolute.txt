@@ -1,0 +1,11 @@
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\obj\Debug\CLASES.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\obj\Debug\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\bin\Debug\CLASES.dll
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\bin\Debug\CLASES.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\obj\Debug\CLASES.dll
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\CLASES\obj\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\CLASES\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\CLASES\obj\Debug\CLASES.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\CLASES\obj\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\CLASES\obj\Debug\CLASES.pdb

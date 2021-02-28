@@ -1,0 +1,134 @@
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\bin\Debug\DAL.pdb
+D:\Perez Demonty\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+D:\Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+D:\Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.Alumno.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.FrmMaterias.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.FrmNotas.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Clase 2\Clase 2\obj\Debug\Clase_2.Inicio.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\Clase 2\Clase 2\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.Alumno.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.FrmMaterias.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.FrmNotas.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.Inicio.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.ControlUsuario.resources
+C:\Users\navegador\Desktop\Clase 2\Clase 2\obj\Debug\Clase_2.ControlNumerico.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.ControlNumerico.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Alumno.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.ControlUsuario.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.ControlNumerico.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Alumno.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.FrmMaterias.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.FrmNotas.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Inicio.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.ControlUsuario.resources
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.LogIn.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.LogIn.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Profesor.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\16 de setiembre\Clase 2\Clase 2\obj\Debug\Clase_2.Registrarse.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.ControlNumerico.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.LogIn.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.ControlUsuario.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.Registrarse.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.frmAdministrativo.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.GestionarAlumnos.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.AdministrarProfesor.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.GestionarMateria.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.AsignarProfeMaterias.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.PonerNotas.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\tp final lug\Clase 2\Clase 2\obj\Debug\Clase_2.VerNotas.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\Clase 2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\BLL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.AdministrarProfesor.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.AsignarProfeMaterias.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.ControlNumerico.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.frmAdministrativo.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.GestionarAlumnos.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.GestionarMateria.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.LogIn.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.PonerNotas.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.ControlUsuario.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.Registrarse.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\Clase_2.VerNotas.resources
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UAI\2°\LUG\Colegio Perez Demonty\Clase 2\Clase 2\obj\Debug\GUI.csproj.CoreCompileInputs.cache

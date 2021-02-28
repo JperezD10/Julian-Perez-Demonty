@@ -1,0 +1,19 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\bin\Debug\cine.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\bin\Debug\cine.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\bin\Debug\cine.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\cine\cine\obj\Debug\cine.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\bin\Debug\cine.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\bin\Debug\cine.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\bin\Debug\cine.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\cine\cine\obj\Debug\cine.csproj.CoreCompileInputs.cache

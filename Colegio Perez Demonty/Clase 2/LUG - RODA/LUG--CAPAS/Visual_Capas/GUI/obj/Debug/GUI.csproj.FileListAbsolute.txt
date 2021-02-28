@@ -1,0 +1,46 @@
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe.config
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\GUI.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Formulario.resources
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.exe
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\GUI\obj\Debug\GUI.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe.config
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.exe
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe.config
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.exe
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BE.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BLL.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\Dal.dll
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BE.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BLL.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\Dal.pdb
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Formulario.resources
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\GUI.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BE.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BLL.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\Dal.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BE.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\BLL.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\bin\Debug\Dal.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Formulario.resources
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\LUG - RODA\LUG--CAPAS\Visual_Capas\GUI\bin\Debug\GUI.exe.config
+C:\Users\navegador\Desktop\LUG - RODA\LUG--CAPAS\Visual_Capas\GUI\obj\Debug\GUI.exe
+C:\Users\navegador\Desktop\LUG - RODA\LUG--CAPAS\Visual_Capas\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,29 @@
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\bin\Debug\Listas.exe.config
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\bin\Debug\Listas.exe
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\bin\Debug\Listas.pdb
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\obj\Debug\Listas.Form1.resources
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.Cache
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\obj\Debug\Listas.exe
+c:\users\server\documents\visual studio 2013\Projects\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\navegador\Desktop\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.pdb
+G:\POO - RODA 2019\Listas\Listas\bin\Debug\Listas.exe.config
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.exe
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.pdb
+G:\POO - RODA 2019\Listas\Listas\bin\Debug\Listas.exe
+G:\POO - RODA 2019\Listas\Listas\bin\Debug\Listas.pdb
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.Form1.resources
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+G:\POO - RODA 2019\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.Cache
+C:\Users\navegador\Desktop\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\navegador\Desktop\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.Form1.resources
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.Properties.Resources.resources
+C:\Users\navegador\Desktop\Listas\Listas\obj\Debug\Listas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Listas\Listas\obj\Debug\Listas.pdb

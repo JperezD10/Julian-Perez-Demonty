@@ -1,0 +1,18 @@
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Ejercicio Pila (Stack)\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache

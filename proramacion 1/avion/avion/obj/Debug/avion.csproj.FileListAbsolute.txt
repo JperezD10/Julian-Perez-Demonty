@@ -1,0 +1,22 @@
+e:\documents\visual studio 2015\Projects\avion\avion\bin\Debug\avion.exe.config
+e:\documents\visual studio 2015\Projects\avion\avion\bin\Debug\avion.exe
+e:\documents\visual studio 2015\Projects\avion\avion\bin\Debug\avion.pdb
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.AdministrarAvion.resources
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.Consultas.resources
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.MenuPrincipal.resources
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.exe
+e:\documents\visual studio 2015\Projects\avion\avion\obj\Debug\avion.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\bin\Debug\avion.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\bin\Debug\avion.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\bin\Debug\avion.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.AdministrarAvion.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.Consultas.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.MenuPrincipal.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\avion\avion\obj\Debug\avion.csproj.GenerateResource.Cache

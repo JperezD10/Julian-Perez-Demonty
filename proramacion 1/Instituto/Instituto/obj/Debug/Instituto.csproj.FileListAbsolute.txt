@@ -1,0 +1,40 @@
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\bin\Debug\Instituto.exe.config
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\bin\Debug\Instituto.exe
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\bin\Debug\Instituto.pdb
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.exe
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.pdb
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.frmRegistro.resources
+e:\documents\visual studio 2015\Projects\Instituto\Instituto\obj\Debug\Instituto.frmMenu.resources
+C:\Users\1\source\repos\Instituto\Instituto\bin\Debug\Instituto.exe.config
+C:\Users\1\source\repos\Instituto\Instituto\bin\Debug\Instituto.exe
+C:\Users\1\source\repos\Instituto\Instituto\bin\Debug\Instituto.pdb
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.frmRegistro.resources
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.frmMenu.resources
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.Properties.Resources.resources
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.exe
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.pdb
+C:\Users\1\source\repos\Instituto\Instituto\obj\Debug\Instituto.frmResumen.resources
+C:\Users\Usuario\Desktop\Instituto\Instituto\bin\Debug\Instituto.exe.config
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.exe
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.pdb
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.frmRegistro.resources
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.frmMenu.resources
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.frmResumen.resources
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Instituto\Instituto\obj\Debug\Instituto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\bin\Debug\Instituto.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.frmRegistro.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.frmMenu.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.frmResumen.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Instituto\Instituto\obj\Debug\Instituto.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+2;asda;21;Masculino;Programacion;2;2;8;4
+21;asda;21;Masculino;Programacion;2;2;2;4
+2;sad;21;Masculino;Programacion;44;4;4;17
+21;sad;21;Masculino;Programacion;44;4;4;17

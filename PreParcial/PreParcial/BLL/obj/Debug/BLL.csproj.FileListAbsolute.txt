@@ -1,0 +1,9 @@
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\BLL.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\BLL.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\obj\Debug\BLL.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\BLL\obj\Debug\BLL.pdb

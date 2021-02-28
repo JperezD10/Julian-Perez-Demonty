@@ -1,0 +1,27 @@
+d:\documents\visual studio 2015\Projects\Duff\Duff\bin\Debug\Duff.exe.config
+d:\documents\visual studio 2015\Projects\Duff\Duff\bin\Debug\Duff.exe
+d:\documents\visual studio 2015\Projects\Duff\Duff\bin\Debug\Duff.pdb
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.Form1.resources
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.exe
+d:\documents\visual studio 2015\Projects\Duff\Duff\obj\Debug\Duff.pdb
+C:\Users\navegador\Downloads\Duff\Duff\bin\Debug\Duff.exe.config
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.exe
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.pdb
+C:\Users\navegador\Downloads\Duff\Duff\bin\Debug\Duff.exe
+C:\Users\navegador\Downloads\Duff\Duff\bin\Debug\Duff.pdb
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.Form1.resources
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.Properties.Resources.resources
+C:\Users\navegador\Downloads\Duff\Duff\obj\Debug\Duff.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\bin\Debug\Duff.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\bin\Debug\Duff.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\bin\Debug\Duff.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Duff\obj\Debug\Duff.csprojAssemblyReference.cache

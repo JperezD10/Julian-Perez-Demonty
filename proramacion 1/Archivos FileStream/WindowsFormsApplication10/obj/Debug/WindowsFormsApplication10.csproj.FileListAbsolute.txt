@@ -1,0 +1,28 @@
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+e:\documents\visual studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\1\Downloads\Ingeniería En Sistemas\1ro\2º Cuatrimestre\Programacion I\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\Archivos FileStream\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache

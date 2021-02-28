@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.FrmCrearEmpleado.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.FrmVerInfo.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Parcial\Parcial\obj\Debug\Parcial.pdb

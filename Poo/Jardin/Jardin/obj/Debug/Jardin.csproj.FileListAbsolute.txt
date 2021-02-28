@@ -1,0 +1,33 @@
+D:\Gerardi Federico\Clase 10\Jardin\Jardin\bin\Debug\Jardin.exe.config
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Form1.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Properties.Resources.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Ver_Info.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.csproj.GenerateResource.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\bin\Debug\Jardin.exe.config
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\bin\Debug\Jardin.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\bin\Debug\Jardin.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\bin\Debug\CLASES.dll
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\bin\Debug\CLASES.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.csproj.CopyComplete
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Asignar_Maestra.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Inscribir_Alumno.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 11 (10-06-19)\Jardin\Jardin\obj\Debug\Jardin.Imprimir_Boleta.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\bin\Debug\Jardin.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\bin\Debug\Jardin.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\bin\Debug\Jardin.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Asignar_Maestra.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Imprimir_Boleta.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Inscribir_Alumno.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.Ver_Info.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Jardin\Jardin\obj\Debug\Jardin.csproj.GenerateResource.Cache

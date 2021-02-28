@@ -1,0 +1,18 @@
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\bin\Debug\zoologico.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\bin\Debug\zoologico.exe
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\bin\Debug\zoologico.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.exe
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\zoologico\zoologico\obj\Debug\zoologico.ComprarEntrada.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\bin\Debug\zoologico.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.ComprarEntrada.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\zoologico\zoologico\obj\Debug\zoologico.csproj.GenerateResource.Cache

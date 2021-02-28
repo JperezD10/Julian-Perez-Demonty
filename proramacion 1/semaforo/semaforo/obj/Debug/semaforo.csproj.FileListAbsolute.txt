@@ -1,0 +1,18 @@
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\bin\Debug\semaforo.exe.config
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.Form1.resources
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\bin\Debug\semaforo.exe
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\bin\Debug\semaforo.pdb
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.exe
+e:\documents\visual studio 2015\Projects\semaforo\semaforo\obj\Debug\semaforo.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\bin\Debug\semaforo.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\obj\Debug\semaforo.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\bin\Debug\semaforo.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\semaforo\semaforo\bin\Debug\semaforo.pdb

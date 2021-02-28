@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3768618F-4A12-4C4A-9142-6450929DFB8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Journey</RootNamespace>
+    <AssemblyName>Journey</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cuenta.Designer.cs">
+      <DependentUpon>Cuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factura.Designer.cs">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JourneyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JourneyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad.Designer.cs">
+      <DependentUpon>Seguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WindowsAnimation.cs" />
+    <EmbeddedResource Include="Cuenta.resx">
+      <DependentUpon>Cuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Seguridad.resx">
+      <DependentUpon>Seguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="JourneyDataSet.xsc">
+      <DependentUpon>JourneyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JourneyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JourneyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JourneyDataSet.xss">
+      <DependentUpon>JourneyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOG IN - copia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOG IN 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdsdssdds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdsdssdds1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOFINAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOFINAL1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOFINAL2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_ 2 48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize Window_2 48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61155.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\93631.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\936311.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-icon-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\124296-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LockPassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\664b6af1e2428aed06246af0c6581efb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="BE\BE.csproj">
+      <Project>{2f598260-0155-41a6-9457-c9338df5fd47}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="BLL\BLL.csproj">
+      <Project>{fb9442cb-9ad5-46c5-9274-9020e3fcfbb4}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="CU\CU.csproj">
+      <Project>{8d4341ae-4738-49fc-837b-7251de3be8ef}</Project>
+      <Name>CU</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\i40-067-688c34eebfcbdb33951c3728b6d9933f-1024-1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-1634817_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue2-1686530_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-azul-claro-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sin_ta10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper_azul_oscuro_1920x1200_124.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adsad23232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajax-loader %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.6s-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rolling-1.6s-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-90px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-90px1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-60px %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-200px %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-200px %282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.8s-200px %283%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.5s-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.5s-200px %282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.5s-200px %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.5s-200px %283%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eclipse-1.3s-200px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppppp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ppppp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\664b6af1e2428aed06246af0c6581efb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user logo menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\73-734715_left-arrow-png-back-arrow-icon-android-transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-33.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

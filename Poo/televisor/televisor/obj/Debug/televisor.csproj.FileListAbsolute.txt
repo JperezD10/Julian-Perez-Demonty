@@ -1,0 +1,18 @@
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\bin\Debug\televisor.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\bin\Debug\televisor.exe
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\bin\Debug\televisor.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.exe
+c:\users\navegador\documents\visual studio 2015\Projects\televisor\televisor\obj\Debug\televisor.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\bin\Debug\televisor.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\bin\Debug\televisor.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\bin\Debug\televisor.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\televisor\televisor\obj\Debug\televisor.csproj.GenerateResource.Cache

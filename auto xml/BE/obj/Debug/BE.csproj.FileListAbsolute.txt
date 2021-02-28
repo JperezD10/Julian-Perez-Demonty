@@ -1,0 +1,5 @@
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BE\bin\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BE\bin\Debug\BE.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BE\obj\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BE\obj\Debug\BE.pdb

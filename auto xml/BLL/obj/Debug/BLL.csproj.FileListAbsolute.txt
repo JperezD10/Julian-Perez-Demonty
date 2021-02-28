@@ -1,0 +1,9 @@
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\BLL.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\BLL.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\DAL.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\BE.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\bin\Debug\DAL.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\obj\Debug\BLL.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\BLL\obj\Debug\BLL.pdb

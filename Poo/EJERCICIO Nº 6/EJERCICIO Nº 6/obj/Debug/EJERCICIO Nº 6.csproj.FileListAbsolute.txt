@@ -1,0 +1,28 @@
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.exe.config
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.exe
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.pdb
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\HOTEL.dll
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\HOTEL.pdb
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csprojResolveAssemblyReference.cache
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO_Nº_6.Form1.resources
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO_Nº_6.Properties.Resources.resources
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csproj.GenerateResource.Cache
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.exe
+D:\Gerardi Federico\Clase 6\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.exe.config
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\HOTEL.dll
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\HOTEL.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO_Nº_6.Form1.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO_Nº_6.Properties.Resources.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csproj.GenerateResource.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.csproj.CopyComplete
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 7 (13-05-2019)\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO_Nº_6.Datos.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EJERCICIO Nº 6\EJERCICIO Nº 6\bin\Debug\EJERCICIO Nº 6.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\EJERCICIO Nº 6\EJERCICIO Nº 6\obj\Debug\EJERCICIO Nº 6.pdb

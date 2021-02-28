@@ -1,0 +1,10 @@
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\CLASES\bin\Debug\CLASES.dll
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\CLASES\bin\Debug\CLASES.pdb
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\CLASES\obj\Debug\CLASES.csprojResolveAssemblyReference.cache
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\CLASES\obj\Debug\CLASES.dll
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\CLASES\obj\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\CLASES\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\CLASES\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\CLASES\obj\Debug\CLASES.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\CLASES\obj\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\CLASES\obj\Debug\CLASES.pdb

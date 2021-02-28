@@ -1,0 +1,9 @@
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\bin\Debug\calculadora perez.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\bin\Debug\calculadora perez.exe
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\bin\Debug\calculadora perez.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora perez.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora_perez.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora_perez.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora perez.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora perez.exe
+c:\users\navegador\documents\visual studio 2015\Projects\calculadora perez\calculadora perez\obj\Debug\calculadora perez.pdb

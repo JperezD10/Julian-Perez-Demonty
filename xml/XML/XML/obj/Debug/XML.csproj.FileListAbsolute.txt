@@ -1,0 +1,44 @@
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.exe.config
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.exe
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\bin\Debug\XML.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.Form1.resources
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.Properties.Resources.resources
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.exe
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.pdb
+c:\users\navegador\documents\visual studio 2015\Projects\XML\XML\obj\Debug\XML.Form2.resources
+Z:\LUG - RODA\XML\XML\bin\Debug\XML.exe.config
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.exe
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.pdb
+Z:\LUG - RODA\XML\XML\bin\Debug\XML.exe
+Z:\LUG - RODA\XML\XML\bin\Debug\XML.pdb
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.Form1.resources
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.Form2.resources
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.Properties.Resources.resources
+Z:\LUG - RODA\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\bin\Debug\XML.exe.config
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\bin\Debug\XML.exe
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\bin\Debug\XML.pdb
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.Form2.resources
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.exe
+C:\Users\SERVER\Desktop\LUG - RODA\XML\XML\obj\Debug\XML.pdb
+C:\Users\navegador\Desktop\XML\XML\bin\Debug\XML.exe.config
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.exe
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.pdb
+C:\Users\navegador\Desktop\XML\XML\bin\Debug\XML.exe
+C:\Users\navegador\Desktop\XML\XML\bin\Debug\XML.pdb
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.Form2.resources
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\navegador\Desktop\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\LUG\xml\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\LUG\xml\XML\XML\obj\Debug\XML.exe
+C:\Users\Usuario\Desktop\UAI\2°\LUG\xml\XML\XML\obj\Debug\XML.pdb

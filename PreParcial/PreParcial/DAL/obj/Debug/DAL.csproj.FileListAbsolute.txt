@@ -1,0 +1,7 @@
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\bin\Debug\DAL.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\bin\Debug\DAL.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\obj\Debug\DAL.dll
+C:\Users\navegador\Desktop\PreParcial\PreParcial\DAL\obj\Debug\DAL.pdb

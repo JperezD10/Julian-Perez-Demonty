@@ -1,0 +1,26 @@
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.exe.config
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.exe
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.pdb
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\bin\Debug\CLASES.dll
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\bin\Debug\CLASES.pdb
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.csprojResolveAssemblyReference.cache
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Form1.resources
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Properties.Resources.resources
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Ver_Info.resources
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.csproj.GenerateResource.Cache
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.exe
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.pdb
+D:\Gerardi Federico\Clase 12(Segundo Parcial)\Gerardi Federico 2do Parcial\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Crear_Empleado.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\bin\Debug\2do_Parcial.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\bin\Debug\CLASES.dll
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\bin\Debug\CLASES.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Crear_Empleado.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\_2do_Parcial.Ver_Info.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\2do_Parcial\2do_Parcial\obj\Debug\2do_Parcial.csproj.GenerateResource.Cache

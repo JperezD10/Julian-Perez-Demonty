@@ -1,0 +1,22 @@
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\bin\Debug\Tele2.exe.config
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.csprojResolveAssemblyReference.cache
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.Form1.resources
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.Properties.Resources.resources
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.csproj.GenerateResource.Cache
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\bin\Debug\Tele2.exe
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\bin\Debug\Tele2.pdb
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.exe
+D:\Gerardi Federico\Clase 2\Tele2\Tele2\obj\Debug\Tele2.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\bin\Debug\Tele2.exe.config
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\bin\Debug\Tele2.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\bin\Debug\Tele2.pdb
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.Form1.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.Properties.Resources.resources
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.csproj.GenerateResource.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.exe
+C:\Users\HOME\Documents\Facultad\2do Año\1er Cuatrimestre\Programacion Orientada a Obejtos\Clase 2(08-04-2019)\Clase 2\Tele2\Tele2\obj\Debug\Tele2.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Tele2\Tele2\bin\Debug\Tele2.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Tele2\Tele2\obj\Debug\Tele2.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\Tele2\Tele2\obj\Debug\Tele2.pdb

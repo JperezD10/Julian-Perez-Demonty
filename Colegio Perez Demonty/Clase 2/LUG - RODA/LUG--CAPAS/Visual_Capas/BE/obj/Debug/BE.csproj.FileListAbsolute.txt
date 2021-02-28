@@ -1,0 +1,10 @@
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\BE\bin\Debug\BE.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\BE\bin\Debug\BE.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\BE\obj\Debug\BE.dll
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\BE\obj\Debug\BE.pdb
+C:\Users\navegador\Desktop\10-09 CAPAS\Visual_Capas\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\BE\bin\Debug\BE.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\BE\bin\Debug\BE.pdb
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\BE\obj\Debug\BE.dll
+E:\2ºA Ingenieria en Sistemas 2do Cuatrimestre UAI\Lenguajes de Ultima Generacion\10-09 Cuarta Clase-CAPAS\Visual_Capas\BE\obj\Debug\BE.pdb

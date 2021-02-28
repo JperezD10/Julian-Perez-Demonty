@@ -1,0 +1,18 @@
+e:\documents\visual studio 2015\Projects\vectores\vectores\bin\Debug\vectores.exe.config
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.Form1.resources
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\vectores\vectores\bin\Debug\vectores.exe
+e:\documents\visual studio 2015\Projects\vectores\vectores\bin\Debug\vectores.pdb
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.exe
+e:\documents\visual studio 2015\Projects\vectores\vectores\obj\Debug\vectores.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\bin\Debug\vectores.exe.config
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.pdb
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.Form1.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\obj\Debug\vectores.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\bin\Debug\vectores.exe
+C:\Users\Usuario\Desktop\UAI\1°\proramacion 1\vectores\vectores\bin\Debug\vectores.pdb

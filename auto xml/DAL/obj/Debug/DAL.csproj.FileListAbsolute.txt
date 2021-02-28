@@ -1,0 +1,7 @@
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\bin\Debug\DAL.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\bin\Debug\DAL.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\bin\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\bin\Debug\BE.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\obj\Debug\DAL.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\auto\DAL\obj\Debug\DAL.pdb

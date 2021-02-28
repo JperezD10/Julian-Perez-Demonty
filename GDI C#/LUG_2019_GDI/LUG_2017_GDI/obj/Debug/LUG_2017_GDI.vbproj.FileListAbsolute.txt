@@ -1,0 +1,11 @@
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\bin\Debug\LUG_2017_GDI.exe.config
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\bin\Debug\LUG_2017_GDI.exe
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\bin\Debug\LUG_2017_GDI.pdb
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\bin\Debug\LUG_2017_GDI.xml
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.vbprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.Form1.resources
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.Resources.resources
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.vbproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.exe
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.xml
+C:\Users\SERVER\Desktop\GDI\LUG_2017_GDI\LUG_2017_GDI\obj\Debug\LUG_2017_GDI.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\bin\Debug\parcial con herencia.exe.config
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\bin\Debug\parcial con herencia.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\bin\Debug\parcial con herencia.pdb
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial con herencia.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial_con_herencia.Form1.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial_con_herencia.frmVer.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial_con_herencia.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial con herencia.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial con herencia.exe
+C:\Users\Usuario\Desktop\UAI\2°\Poo\parcial con herencia\parcial con herencia\obj\Debug\parcial con herencia.pdb

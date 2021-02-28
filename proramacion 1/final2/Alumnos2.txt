@@ -1,0 +1,6 @@
+3;das;Masculino;Programacion;4;4;4;4
+5;das;Masculino;Programacion;4;4;4;4
+11;asd;Masculino;Programacion;3;3;3;4
+32;asda;Masculino;Programacion;4;8;9;4
+6;asd;Masculino;Sistemas;9;9;9;4
+4;asda;Masculino;Programacion;4;8;9;7
